@@ -1,4 +1,7 @@
-
+html, body{
+    max-width: 100%;
+    overflow-x:hidden 
+}
 .top{
     height: 50px;
     display: flex;
